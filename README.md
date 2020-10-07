@@ -35,3 +35,39 @@ The software could give solutions like:
 - Car traffic monitoring
 - Human traffic monitoring
 - Production line traffic monitoring
+
+## Compile
+After seting up the OpenWrt and with the Cross-Compile Toolchain, to compile run:
+
+``` 
+$ ./mips-openwrt-linux-gcc source.c -o name
+```
+
+where "source.c" is the source code file and "name" the name of the executable file.
+
+## Run
+
+#### zSun
+After installing and setting up OpenWrt, with zSun connected, to send an executable run:
+
+```
+$ sudo scp name root@192.168.1.1:/root
+```
+
+where "name" is the name of the executable and "192.168.1.1" is the IP adress of the zSun.
+
+#### QEMU
+After installing and setting up QEMU, to start the virtual machine run:
+
+```
+$ qemu-system-mips -kernel ~/openwrt-zsun-zsun/bin/malta/openwrt-malta-be-vmlinux-initramfs.elf -redir tcp:2222::22 -nographic
+
+```
+
+Then, to send an executable run:
+
+```
+$ sudo scp -P 2222 name root@192.168.1.72:/root
+```
+
+where "name" is the name of the executable and "192.168.1.72" is the IP adress of the emulator.
