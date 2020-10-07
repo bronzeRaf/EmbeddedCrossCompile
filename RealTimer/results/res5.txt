@@ -1,0 +1,165 @@
+70 samples, one every 0.7 sec
+All the time values are in microseconds (usec)
+
+
+	Linux time command gives
+_________________________________
+real	0m49.004s
+user	0m0.004s
+sys	0m0.000s
+
+
+
+
+	Arguments 70 0.7
+	Execution in real ZSUN!
+_________________________________
+
+timestamp	0 =	4
+timestamp	1 =	700167
+timestamp	2 =	1400252
+timestamp	3 =	2100339
+timestamp	4 =	2800426
+timestamp	5 =	3500512
+timestamp	6 =	4200156
+timestamp	7 =	4900242
+timestamp	8 =	5600328
+timestamp	9 =	6300415
+timestamp	10 =	7000502
+timestamp	11 =	7700129
+timestamp	12 =	8400229
+timestamp	13 =	9100315
+timestamp	14 =	9800400
+timestamp	15 =	10500488
+timestamp	16 =	11200097
+timestamp	17 =	11900213
+timestamp	18 =	12600300
+timestamp	19 =	13300386
+timestamp	20 =	14000472
+timestamp	21 =	14700151
+timestamp	22 =	15400238
+timestamp	23 =	16100323
+timestamp	24 =	16800420
+timestamp	25 =	17500507
+timestamp	26 =	18200096
+timestamp	27 =	18900213
+timestamp	28 =	19600300
+timestamp	29 =	20300386
+timestamp	30 =	21000472
+timestamp	31 =	21700167
+timestamp	32 =	22400253
+timestamp	33 =	23100341
+timestamp	34 =	23800426
+timestamp	35 =	24500512
+timestamp	36 =	25200169
+timestamp	37 =	25900255
+timestamp	38 =	26600342
+timestamp	39 =	27300428
+timestamp	40 =	28000551
+timestamp	41 =	28700098
+timestamp	42 =	29400211
+timestamp	43 =	30100297
+timestamp	44 =	30800384
+timestamp	45 =	31500470
+timestamp	46 =	32200161
+timestamp	47 =	32900248
+timestamp	48 =	33600334
+timestamp	49 =	34300421
+timestamp	50 =	35000507
+timestamp	51 =	35700148
+timestamp	52 =	36400238
+timestamp	53 =	37100324
+timestamp	54 =	37800410
+timestamp	55 =	38500497
+timestamp	56 =	39200100
+timestamp	57 =	39900221
+timestamp	58 =	40600307
+timestamp	59 =	41300392
+timestamp	60 =	42000478
+timestamp	61 =	42700171
+timestamp	62 =	43400257
+timestamp	63 =	44100343
+timestamp	64 =	44800432
+timestamp	65 =	45500518
+timestamp	66 =	46200100
+timestamp	67 =	46900232
+timestamp	68 =	47600319
+timestamp	69 =	48300406
+
+
+
+
+	Arguments 70 0.7
+	Execution in quemu
+_________________________________
+
+timestamp	0 =	192
+timestamp	1 =	701967
+timestamp	2 =	1402866
+timestamp	3 =	2103743
+timestamp	4 =	2804839
+timestamp	5 =	3506009
+timestamp	6 =	4200520
+timestamp	7 =	4901193
+timestamp	8 =	5601938
+timestamp	9 =	6303376
+timestamp	10 =	7004464
+timestamp	11 =	7701224
+timestamp	12 =	8401555
+timestamp	13 =	9102602
+timestamp	14 =	9803576
+timestamp	15 =	10505471
+timestamp	16 =	11200759
+timestamp	17 =	11901246
+timestamp	18 =	12601647
+timestamp	19 =	13302668
+timestamp	20 =	14003566
+timestamp	21 =	14700436
+timestamp	22 =	15401602
+timestamp	23 =	16102036
+timestamp	24 =	16802991
+timestamp	25 =	17504603
+timestamp	26 =	18200605
+timestamp	27 =	18901235
+timestamp	28 =	19602405
+timestamp	29 =	20303163
+timestamp	30 =	21003641
+timestamp	31 =	21700405
+timestamp	32 =	22401360
+timestamp	33 =	23101892
+timestamp	34 =	23803860
+timestamp	35 =	24504964
+timestamp	36 =	25202616
+timestamp	37 =	25903142
+timestamp	38 =	26604034
+timestamp	39 =	27305523
+timestamp	40 =	28006688
+timestamp	41 =	28700854
+timestamp	42 =	29401564
+timestamp	43 =	30102607
+timestamp	44 =	30803711
+timestamp	45 =	31504118
+timestamp	46 =	32211199
+timestamp	47 =	32912530
+timestamp	48 =	33612948
+timestamp	49 =	34313369
+timestamp	50 =	35014488
+timestamp	51 =	35700344
+timestamp	52 =	36401092
+timestamp	53 =	37101650
+timestamp	54 =	37803027
+timestamp	55 =	38503661
+timestamp	56 =	39200490
+timestamp	57 =	39901189
+timestamp	58 =	40601924
+timestamp	59 =	41303336
+timestamp	60 =	42007141
+timestamp	61 =	42701123
+timestamp	62 =	43401611
+timestamp	63 =	44102205
+timestamp	64 =	44802649
+timestamp	65 =	45503380
+timestamp	66 =	46200960
+timestamp	67 =	46901687
+timestamp	68 =	47602197
+timestamp	69 =	48303621

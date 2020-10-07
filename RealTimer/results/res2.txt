@@ -1,0 +1,225 @@
+100 samples, one every 1 sec
+All the time values are in microseconds (usec)
+
+
+	Linux time command gives
+_________________________________
+real	1m40.004s
+user	0m0.000s
+sys	0m0.004s
+
+
+
+
+	Arguments 100 1
+	Execution in real ZSUN!
+_________________________________
+
+timestamp	0 =	5
+timestamp	1 =	1000105
+timestamp	2 =	2000204
+timestamp	3 =	3000292
+timestamp	4 =	4000379
+timestamp	5 =	5000467
+timestamp	6 =	6000097
+timestamp	7 =	7000184
+timestamp	8 =	8000271
+timestamp	9 =	9000361
+timestamp	10 =	10000447
+timestamp	11 =	11000096
+timestamp	12 =	12000199
+timestamp	13 =	13000286
+timestamp	14 =	14000373
+timestamp	15 =	15000459
+timestamp	16 =	16000097
+timestamp	17 =	17000185
+timestamp	18 =	18000272
+timestamp	19 =	19000371
+timestamp	20 =	20000457
+timestamp	21 =	21000098
+timestamp	22 =	22000185
+timestamp	23 =	23000272
+timestamp	24 =	24000358
+timestamp	25 =	25000447
+timestamp	26 =	26000096
+timestamp	27 =	27000183
+timestamp	28 =	28000270
+timestamp	29 =	29000374
+timestamp	30 =	30000462
+timestamp	31 =	31000096
+timestamp	32 =	32000183
+timestamp	33 =	33000272
+timestamp	34 =	34000360
+timestamp	35 =	35000447
+timestamp	36 =	36000095
+timestamp	37 =	37000182
+timestamp	38 =	38000269
+timestamp	39 =	39000356
+timestamp	40 =	40000443
+timestamp	41 =	41000097
+timestamp	42 =	42000184
+timestamp	43 =	43000271
+timestamp	44 =	44000358
+timestamp	45 =	45000444
+timestamp	46 =	46000096
+timestamp	47 =	47000182
+timestamp	48 =	48000268
+timestamp	49 =	49000355
+timestamp	50 =	50000454
+timestamp	51 =	51000097
+timestamp	52 =	52000184
+timestamp	53 =	53000271
+timestamp	54 =	54000357
+timestamp	55 =	55000444
+timestamp	56 =	56000096
+timestamp	57 =	57000186
+timestamp	58 =	58000274
+timestamp	59 =	59000360
+timestamp	60 =	60000446
+timestamp	61 =	61000095
+timestamp	62 =	62000182
+timestamp	63 =	63000582
+timestamp	64 =	64000771
+timestamp	65 =	65000859
+timestamp	66 =	66000226
+timestamp	67 =	67000314
+timestamp	68 =	68000401
+timestamp	69 =	69000487
+timestamp	70 =	70000574
+timestamp	71 =	71000094
+timestamp	72 =	72000179
+timestamp	73 =	73000269
+timestamp	74 =	74000357
+timestamp	75 =	75000444
+timestamp	76 =	76000109
+timestamp	77 =	77000195
+timestamp	78 =	78000281
+timestamp	79 =	79000368
+timestamp	80 =	80000455
+timestamp	81 =	81000096
+timestamp	82 =	82000183
+timestamp	83 =	83000285
+timestamp	84 =	84000374
+timestamp	85 =	85000462
+timestamp	86 =	86000095
+timestamp	87 =	87000182
+timestamp	88 =	88000267
+timestamp	89 =	89000355
+timestamp	90 =	90000446
+timestamp	91 =	91000095
+timestamp	92 =	92000181
+timestamp	93 =	93000291
+timestamp	94 =	94000379
+timestamp	95 =	95000466
+timestamp	96 =	96000098
+timestamp	97 =	97000186
+timestamp	98 =	98000274
+timestamp	99 =	99000362
+
+
+
+
+	Arguments 100 1
+	Execution in quemu
+_________________________________
+
+timestamp	0 =	197
+timestamp	1 =	1002523
+timestamp	2 =	2003403
+timestamp	3 =	3004127
+timestamp	4 =	4004878
+timestamp	5 =	5005328
+timestamp	6 =	6000546
+timestamp	7 =	7001442
+timestamp	8 =	8002795
+timestamp	9 =	9003893
+timestamp	10 =	10004631
+timestamp	11 =	11000758
+timestamp	12 =	12001636
+timestamp	13 =	13002651
+timestamp	14 =	14003507
+timestamp	15 =	15004565
+timestamp	16 =	16000518
+timestamp	17 =	17000776
+timestamp	18 =	18001466
+timestamp	19 =	19002260
+timestamp	20 =	20003596
+timestamp	21 =	21000891
+timestamp	22 =	22001406
+timestamp	23 =	23001781
+timestamp	24 =	24002640
+timestamp	25 =	25003160
+timestamp	26 =	26001991
+timestamp	27 =	27003919
+timestamp	28 =	28004600
+timestamp	29 =	29005758
+timestamp	30 =	30006178
+timestamp	31 =	31001341
+timestamp	32 =	32002575
+timestamp	33 =	33003744
+timestamp	34 =	34004210
+timestamp	35 =	35004600
+timestamp	36 =	36000418
+timestamp	37 =	37001797
+timestamp	38 =	38002658
+timestamp	39 =	39003627
+timestamp	40 =	40004625
+timestamp	41 =	41000929
+timestamp	42 =	42001679
+timestamp	43 =	43002748
+timestamp	44 =	44003189
+timestamp	45 =	45004262
+timestamp	46 =	46000471
+timestamp	47 =	47001683
+timestamp	48 =	48003935
+timestamp	49 =	49004940
+timestamp	50 =	50005870
+timestamp	51 =	51001056
+timestamp	52 =	52002030
+timestamp	53 =	53002817
+timestamp	54 =	54003511
+timestamp	55 =	55003978
+timestamp	56 =	56000301
+timestamp	57 =	57001093
+timestamp	58 =	58001825
+timestamp	59 =	59002584
+timestamp	60 =	60003600
+timestamp	61 =	61000510
+timestamp	62 =	62001375
+timestamp	63 =	63001958
+timestamp	64 =	64002398
+timestamp	65 =	65003578
+timestamp	66 =	66004229
+timestamp	67 =	67005517
+timestamp	68 =	68006249
+timestamp	69 =	69007268
+timestamp	70 =	70007907
+timestamp	71 =	71000762
+timestamp	72 =	72001731
+timestamp	73 =	73002803
+timestamp	74 =	74003561
+timestamp	75 =	75004286
+timestamp	76 =	76000352
+timestamp	77 =	77001051
+timestamp	78 =	78002081
+timestamp	79 =	79003879
+timestamp	80 =	80004604
+timestamp	81 =	81001157
+timestamp	82 =	82002351
+timestamp	83 =	83003203
+timestamp	84 =	84003673
+timestamp	85 =	85004072
+timestamp	86 =	86000595
+timestamp	87 =	87001871
+timestamp	88 =	88002823
+timestamp	89 =	89003920
+timestamp	90 =	90004655
+timestamp	91 =	91000696
+timestamp	92 =	92001680
+timestamp	93 =	93002605
+timestamp	94 =	94003075
+timestamp	95 =	95003414
+timestamp	96 =	96000335
+timestamp	97 =	97000696
+timestamp	98 =	98001119
+timestamp	99 =	99001604

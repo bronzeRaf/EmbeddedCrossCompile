@@ -1,0 +1,43 @@
+10 samples, one every 15 sec
+All the time values are in microseconds (usec)
+
+
+	Linux time command gives
+_________________________________
+real	2m30.004s
+user	0m0.000s
+sys	0m0.000s
+
+
+
+	Arguments 10 15
+	Execution in real ZSUN!
+_________________________________
+
+timestamp	0 =	4
+timestamp	1 =	15000107
+timestamp	2 =	30000197
+timestamp	3 =	45000286
+timestamp	4 =	60000372
+timestamp	5 =	75000459
+timestamp	6 =	90000100
+timestamp	7 =	105000190
+timestamp	8 =	120000278
+timestamp	9 =	135000367
+
+
+	Arguments 10 15
+	Execution in quemu
+_________________________________
+
+timestamp	0 =	119
+timestamp	1 =	15001628
+timestamp	2 =	30003317
+timestamp	3 =	45004404
+timestamp	4 =	60006154
+timestamp	5 =	75007422
+timestamp	6 =	90003378
+timestamp	7 =	105006626
+timestamp	8 =	120008618
+timestamp	9 =	135011220
+
