@@ -11,9 +11,15 @@ A project to implement a low energy timer on an embeded zSun device. The project
 To run...
 
 #### Applications
-- application1...
+This software is working in an embedded device either with a constant power suply or a battery as its energy requirements are low. The software is able to begin a task periodically, realating the task with a timestamp. Adding functionality code to the process that collects the timestamps, the software could do any periodic action, keeping records as a history.
 
-## Real Time WIFI footprint scanner
+The software could give solutions like: 
+- Periodically run an automation
+- Periodically run a system check
+- Periodically send notifications
+- Periodically update a monitor
+
+## Real Wifier
 A project to implement a low energy WIFI scanner on an embeded zSun device. The project is getting the period T of the scanner. The system wakes up a process every T seconds and collects the available WIFI SSIDs related with a timestamp. This loop is repeated forever. 
 
 The project uses PThreads to run parallel processes. You have to upload the PThreads library to the device, in orfer to run the project to the zSun.
@@ -24,6 +30,12 @@ The project uses PThreads to run parallel processes. You have to upload the PThr
 To run...
 
 #### Applications
-- application1...
+This software is working in an embedded device either with a constant power suply or a battery as its energy requirements are low. The software is able to track the WIFI footprints of an area. Applying WIFI transmitters to products, cars, wearables or anything else, the software could track the traffic of an area.
+
+The software could give solutions like: 
+- Product input / output
+- Car traffic monitoring
+- Pepople traffic monitoring
+- Production line traffic
 
 The Documentation and the repo is under construction... Check out soon!
