@@ -23,7 +23,7 @@ The software could give solutions like:
 ## Real Wifier
 A project to implement a low energy WIFI scanner on an embeded zSun device. The project is getting the period T of the scanner. The system wakes up a process every T seconds and collects the available WIFI SSIDs related with a timestamp. This loop is repeated forever. 
 
-The project uses PThreads to run parallel processes. You have to upload the PThreads library to the device, in order to run the project to the zSun.
+The project uses PThreads to run parallel processes. You have to upload the PThreads library to the device in the "lib" folder, in order to run the project to the zSun.
 
 Ιndicative results of the project could be found in the "results" folder. The results are separated based on the input arguments and contain runtime information both in a QEMU emulator and a real zSun device.
 
